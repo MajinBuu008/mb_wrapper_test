@@ -83,4 +83,4 @@ module_exit(mb_dump_task_exit);
 
 MODULE_LICENSE("Proprietary");
 MODULE_AUTHOR("MajinBuu");
-MODULE_DESCRIPTION("copy dumptasks from kernel");
+MODULE_DESCRIPTION("revise dumptasks from kernel for test");
