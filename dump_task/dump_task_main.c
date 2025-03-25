@@ -10,8 +10,6 @@
 #include "wrapper_misc.h"
 #define PROC_ENTRY_NAME "dump_all_tasks"
 
-struct task_struct *mb_find_lock_task_mm(struct task_struct *p);
-
 #define PAGES_TO_KB(__pages) ((__pages) << ( PAGE_SHIFT - 10 ))
 
 
