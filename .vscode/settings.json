@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "wrapper_misc.h": "c",
+        "sched.h": "c"
+    }
+}
